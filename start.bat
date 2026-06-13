@@ -1,1 +1,1 @@
-D:\lock_alarm\.venv\Scripts\python.exe D:\lock_alarm\session_listener.py
+D:\lock_alarm\.venv\Scripts\python.exe D:\lock_alarm\main.py
